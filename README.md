@@ -12,21 +12,27 @@ Passionate about building responsive websites and step by step moving towards Me
 - Master Frontend Development (Responsive Websites, JavaScript)  
 - Build Full-Stack Projects with MERN Stack in the future  
 
-## 🛠 Skills  
-![HTML5](...) ![CSS3](...) ![JavaScript](...) ![Bootstrap](...)  
+## 🛠 Technologies nad Skills
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📌 Projects  
-- Portfolio Website (HTML + CSS)  
-- Mini E-Commerce (in progress)  
-
-## 📫 Reach Me  
-- Email: your_email_here  
-- LinkedIn: your_link_here  
+### Tools I Use  
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fahad-muneer40)  
+
+
+## ⚡ Fun Facts  
+- I love exploring new tech 🚀  
+- I love cycling
+- Learning coding step by step 🧑‍💻  
+- Big believer in “Consistency over Perfection”  
+
 
 
 <!--
