@@ -1,5 +1,13 @@
 ## Hey! Great to see you here 👋
 
+## 🛠 Skills
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- React
+- Node.js
+
 <!--
 **Fahad-40/Fahad-40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
