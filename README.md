@@ -2,7 +2,6 @@
 My name is **Fahad Muneer**🧑‍💻 
 <br>
 <br>
-<br>
 I am a Web Development Learner, currently exploring **React** ✨  
 Passionate about building responsive websites and step by step moving towards Mern-Stack Development 🚀  
 
