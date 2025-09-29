@@ -4,6 +4,7 @@
 I am a Web Development Learner, currently exploring **React** ✨  
 Passionate about building responsive websites and step by step moving towards Mern-Stack Development 🚀  
 
+
 💻  Frontend Development – Practicing HTML, CSS, JavaScript, and Bootstrap  
 🌱  Currently Learning – Responsive Web Design, JavaScript Fundamentals and React <br>
 🎯  Future Goal – Become a Full-Stack Developer (MERN Stack)  
@@ -28,7 +29,7 @@ Passionate about building responsive websites and step by step moving towards Me
 - Big believer in “Consistency over Perfection”  
 
 ## 📫 Connect With Me  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-thebadge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fahad-muneer40) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)[[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
 
 
 
