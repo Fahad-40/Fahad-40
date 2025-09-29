@@ -1,12 +1,11 @@
-## Hey! Great to see you here 👋 
 My name is **Fahad Muneer**🧑‍💻 
 <br>
 <br>
 I am a Web Development Learner, currently exploring **React** ✨  
-Passionate about building responsive websites and step by step moving towards    Mern-Stack Development 🚀  
+Passionate about building responsive websites and step by step moving towards Mern-Stack Development 🚀  
 
 💻  Frontend Development – Practicing HTML, CSS, JavaScript, and Bootstrap  
-🌱  Currently Learning – Responsive Web Design, JavaScript Fundamentals and React
+🌱  Currently Learning – Responsive Web Design, JavaScript Fundamentals and React <br>
 🎯  Future Goal – Become a Full-Stack Developer (MERN Stack)  
 
 ## 🎯 Goals  
