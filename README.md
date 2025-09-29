@@ -1,6 +1,7 @@
-##Hey! Great to see you here 👋
-My name is **Fahad Muneer**🧑‍💻
+##Hey! Great to see you here 👋 <br>
+My name is **Fahad Muneer**🧑‍💻 <br>
 ---
+<br>
 I am a Web Development Learner, currently exploring **React** ✨  
 Passionate about building responsive websites and step by step moving towards Mern-Stack Development 🚀  
 
