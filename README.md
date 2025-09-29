@@ -21,16 +21,15 @@ Passionate about building responsive websites and step by step moving towards Me
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fahad-muneer40)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
-
 ## ⚡ Fun Facts  
 - I love exploring new tech 🚀  
 - I love cycling
 - Learning coding step by step 🧑‍💻  
 - Big believer in “Consistency over Perfection”  
+
+## 📫 Connect With Me  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-thebadge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fahad-muneer40) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
+
 
 
 
