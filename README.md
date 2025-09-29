@@ -15,7 +15,7 @@ Passionate about building responsive websites and step by step moving towards Me
 ## 🛠 Technologies nad Skills
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![React Logo](./react-logo.svg)
+![React Logo (BW)](./react-logo-bw.svg)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
