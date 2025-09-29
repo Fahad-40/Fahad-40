@@ -1,4 +1,4 @@
-My name is **Fahad Muneer**🧑‍💻 
+## My name is **Fahad Muneer**🧑‍💻 
 <br>
 <br>
 I am a Web Development Learner, currently exploring **React** ✨  
@@ -17,11 +17,10 @@ Passionate about building responsive websites and step by step moving towards Me
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools I Use  
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fahad-muneer40)  
