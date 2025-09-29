@@ -22,10 +22,10 @@ Build Full-Stack Projects with MERN Stack in the future
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## ⚡ Fun Facts  
-I love exploring new tech 🚀  
-I love cycling
-Learning coding step by step 🧑‍💻  
-Big believer in “Consistency over Perfection”  
+- I enjoy cycling 🚴‍♂️  
+- I love exploring new technologies 💻  
+- I love eating tasty food 🍕 
+- I like traveling ✈️  
 
 ## 📫 Connect With Me  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
