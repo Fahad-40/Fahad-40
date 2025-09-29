@@ -12,7 +12,7 @@ Passionate about building responsive websites and step by step moving towards Me
 Master Frontend Development (Responsive Websites, JavaScript)  
 Build Full-Stack Projects with MERN Stack in the future  
 
-## 🛠 Technologies nad Skills
+## 🛠 Technologies and Skills
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
