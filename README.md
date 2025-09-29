@@ -1,17 +1,15 @@
 ## My name is **Fahad Muneer**🧑‍💻 
 <br>
-<br>
 I am a Web Development Learner, currently exploring **React** ✨  
 Passionate about building responsive websites and step by step moving towards Mern-Stack Development 🚀  
-
-
+<br>
 💻  Frontend Development – Practicing HTML, CSS, JavaScript, and Bootstrap  
 🌱  Currently Learning – Responsive Web Design, JavaScript Fundamentals and React <br>
 🎯  Future Goal – Become a Full-Stack Developer (MERN Stack)  
 
 ## 🎯 Goals  
-- Master Frontend Development (Responsive Websites, JavaScript)  
-- Build Full-Stack Projects with MERN Stack in the future  
+Master Frontend Development (Responsive Websites, JavaScript)  
+Build Full-Stack Projects with MERN Stack in the future  
 
 ## 🛠 Technologies nad Skills
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,13 +21,14 @@ Passionate about building responsive websites and step by step moving towards Me
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## ⚡ Fun Facts  
-- I love exploring new tech 🚀  
-- I love cycling
-- Learning coding step by step 🧑‍💻  
-- Big believer in “Consistency over Perfection”  
+I love exploring new tech 🚀  
+I love cycling
+Learning coding step by step 🧑‍💻  
+Big believer in “Consistency over Perfection”  
 
 ## 📫 Connect With Me  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)[[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+
 
 
 
