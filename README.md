@@ -25,7 +25,7 @@ Build Full-Stack Projects with MERN Stack in the future
 - I enjoy cycling 🚴‍♂️  
 - I love exploring new technologies 💻  
 - I love eating tasty food 🍕 
-- I like traveling ✈️  
+ I like traveling ✈️  
 
 ## 📫 Connect With Me  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fahad-40)
