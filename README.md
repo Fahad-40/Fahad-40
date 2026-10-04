@@ -12,7 +12,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 CS Student (4th Semester) — self-taught developer
+- 🎓 CS Student (5th Semester) — self-taught developer
 - 💻 Frontend: HTML, CSS, JavaScript, Tailwind CSS
 - ⚙️ Backend: Node.js, Express.js, MongoDB, Mongoose, JWT Auth, REST APIs
 - 🧪 API Testing: Postman (Collections, Auth flows, Automated tests)
@@ -68,7 +68,7 @@
 
 
 
-
+<!--
 
 ## Hey! Great to see you here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 My name is **Fahad Muneer** 🧑‍💻
@@ -105,6 +105,7 @@ Build Full-Stack Projects with MERN Stack in the future
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-muneer40/)
 
 
+-->
 
 
 
