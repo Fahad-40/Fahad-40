@@ -48,7 +48,7 @@
 - 🚴‍♂️ I enjoy cycling
 - 🌍 I love exploring new technologies
 - 🍕 Big fan of good food
-- ✈️ I like traveling
+
 
 ### 📫 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fahad-40)
