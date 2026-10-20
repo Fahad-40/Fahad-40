@@ -47,7 +47,6 @@
 ### ⚡ Fun Facts
 - 🚴‍♂️ I enjoy cycling
 - 🌍 I love exploring new technologies
-- 🍕 Big fan of good food
 - ✈️ I like traveling
 
 
