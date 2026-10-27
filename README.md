@@ -1,8 +1,8 @@
 <h1 align="center">Hey there, I'm Fahad Muneer 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>
   <b>Full-Stack Developer in the making | MERN Stack</b>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>
 </p>
 
 <p align="center">
