@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>
-  <b>Full-Stack Developer in the making | MERN Stack</b>
+  <b>Full-Stack Developer in the making |  Stack</b>
 </p>
 
 <p align="center">
